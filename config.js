@@ -1,18 +1,18 @@
 export const DETAILS = {
-  WALLET: '0x3e6d9ea1259b3ae6fc9c4df62369262ff6026e37',
-  TITLE: 'Lin Zhizhao',
-  SUBTITLE: '隐藏人物睡不着',
-  DESCRIPTION: '网瘾中年，WordPress 开发者，业余摄影爱好者。',
-  EMAIL: 'quasimo@qq.com'
+  WALLET: '0x53e73a2fbe9ffe7870776f92f6139818f142274f',
+  TITLE: 'Hgta',
+  SUBTITLE: 'Hgta什么都想玩',
+  DESCRIPTION: '元宇宙新手',
+  EMAIL: 'viphgta@qq.com'
 }
 
 export const SOCIALS = [
-  {social:'weibo',icon:'/icons/icons8-weibo-48.png',id:'@隐藏人物',url:'http://weibo.com/linz'},
-  {social:'bilibili',icon:'/icons/icons8-bilibili-48.png',id:'隐藏人物睡不着',url:'https://space.bilibili.com/21824908'},
+  {social:'weibo',icon:'/icons/icons8-weibo-48.png',id:'@hgta',url:'http://weibo.com/hgta'},
+  {social:'bilibili',icon:'/icons/icons8-bilibili-48.png',id:'hgta',url:'https://space.bilibili.com/21824908'},
   // {social:'wechat',id:'quasimo',url:'/wechat.png'},
-  // {social:'douyin',id:'隐藏人物睡不着',url:'/douyin.png'},
+  // {social:'douyin',id:'hgta',url:'/douyin.png'},
 ]
 
 export const ZHIHU = {
-  user: 'linz'
+  user: 'hgta'
 }
